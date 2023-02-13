@@ -36,10 +36,31 @@ export const projects = [
 export const skills = [
   "HTML/HTML5",
   "CSS/CSS3",
+  "Bootstap/Bootstrap4",
   "JavaScript",
   "TypeScript",
   "ReactJS",
   "NodeJS",
   "Angular",
-  "Material UI"
+  "Material UI",
+  "C/C++",
+  "Java",
+  "PHP",
+  "Tailwind CSS",
+  "SASS/LESS/SCSS",
+  "MySQL",
+  "NoSQL",
+  "RDBMS",
+  "MongoDB",
+  "WEB API",
+  "OS Fundamentals"
 ];
+
+export const tools = [
+  "Visual Studio Code",
+  "Visual Studio",
+  "Microsoft SQL Server",
+  "Git/Github",
+  "Microsoft Azure",
+  "Eklipse"
+]
