@@ -26,8 +26,8 @@ export default function Contact() {
 
   return (
     <section id="contact" className="relative">
-      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
-        <div className="lg:w-1/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
+      <div className="container px-5 py-10 lg:w-5/6 mx-auto flex sm:flex-nowrap flex-wrap">
+        <div className="lg:w-2/4 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 md:ml-auto w-full mt-8 md:mt-0 flex items-end justify-start relative">
           <iframe
             width="100%"
             height="100%"
@@ -66,14 +66,13 @@ export default function Contact() {
         <form
           netlify
           name="contact"
-          className="lg:w-2/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
+          className="lg:w-2/4 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            I like to grab the new opportunities, Please feel free to reach out to me..!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
